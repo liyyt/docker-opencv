@@ -1,0 +1,5 @@
+version: '3'
+services:
+ opencv:
+   image: liyyt/opencv:latest
+   build: .
